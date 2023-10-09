@@ -59,3 +59,11 @@ footer {
     line-height: 28px;
     text-decoration: underline;
 }
+
+.balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 98.394px;
+    height: 88.001px;
+}
